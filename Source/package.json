@@ -33,7 +33,7 @@
     "@electron-forge/maker-rpm": "^6.0.0-beta.45",
     "@electron-forge/maker-squirrel": "^6.0.0-beta.45",
     "@electron-forge/maker-zip": "^6.0.0-beta.45",
-    "electron": "^7.1.1",
+    "electron": "^9.4.0",
     "mocha": "^7.1.1"
   },
   "dependencies": {
